@@ -21,9 +21,9 @@ For each region, a dedicated Instagram account was created and managed:
 ### Instagram Screenshots
 Click on the links below to view the Instagram screenshots for each region:
 
-- [Dubai Instagram Page](./Screenshots/dubai_instagram.png)
-- [Kuwait Instagram Page](./Screenshots/kuwait_instagram.png)
-- [Qatar Instagram Page](./Screenshots/qatar_instagram.png)
+- [Dubai Instagram Page](./Screenshots/dubai_instagram.jpeg)
+- [Kuwait Instagram Page](./Screenshots/kuwait_instagram.jpeg)
+- [Qatar Instagram Page](./Screenshots/qatar_instagram.jpeg)
 
 ## Website
 The website was designed to provide an easy and engaging experience for users to browse and shop for perfumes.
