@@ -1,5 +1,5 @@
 # Elite--Special--the-one-perfumes
- 
+ This project involved managing the website and social media presence for a chain of perfume shops across Dubai, Kuwait, and Qatar.
 # Perfume Shops Social Media & Website Management
 ## 2023-2023
 ## Project Overview
